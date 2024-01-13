@@ -1,4 +1,4 @@
-# bootjava30
+# Topjava30
 ### Реализация приложения голосования за рестораны
 ### Стек: REST API на стеке Java 17, Spring Boot 3.0, Lombok, H2 Data Base, Swagger, Hibernate ORM.
 
